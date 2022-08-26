@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![MasterHead](https://gotvantage.com/wp-content/uploads/2017/05/zarget_banner2.gif)]
 <h1 align="center">Hi 👋, I'm KyawSwarHtet</h1>
 <h3 align="center">A fullstack developer</h3>
