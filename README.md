@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 🌱 I’m currently learning **Node.js, React.js and mongodb**
+- 🌱 I’m currently working with **Node.js, Express.js, Typescript, React.js, Redux, Vue.js, mongodb and MySql**
 
 - 📫 How to reach me **kyawswarhtet101094@gmail.com**
 
