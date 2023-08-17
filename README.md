@@ -11,13 +11,13 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 🌱 I’m currently working with **Node.js, Express.js, Typescript, React.js, Redux, Vue.js, mongodb and MySql**
+- 🌱 I’m currently working with **Node.js, Express.js, Typescript, React.js, Redux, Next.js, Vue.js, Mongodb and MySql**
 
 - 📫 How to reach me **kyawswarhtet1119@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kyaw-swar-htet-975b73221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kyaw-swar-htet-975b73221" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mr-kyaw-swar-htet-975b73221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kyaw-swar-htet-975b73221" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/19852779/kyaw-swar-htet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:19852779" height="30" width="40" /></a>
 <a href="https://www.facebook.com/kyawswar.htet.10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/kyawswar.htet.10" height="30" width="40" /></a>
 </p>
