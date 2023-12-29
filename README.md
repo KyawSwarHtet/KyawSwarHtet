@@ -1,11 +1,11 @@
 ![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm KyawSwarHtet</h1>
-<h3 align="center">A fullstack developer</h3>
+<h3 align="center">A Fullstack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawswarhtet&label=Profile%20views&color=0e75b6&style=flat" alt="kyawswarhtet" /> </p>
 
-- 🔭 I’m currently working on Modern Future IT.,Ltd as / Senior Backend Developer (Node.js)
+- 🔭 I’m currently working on Modern Future IT.,Ltd as Senior Backend Developer (Node.js)
  
 - 🔭 Former Senior Full Stack Developer at ITVisionHub.pte.,Ltd
 
