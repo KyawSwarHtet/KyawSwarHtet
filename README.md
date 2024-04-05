@@ -5,8 +5,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawswarhtet&label=Profile%20views&color=0e75b6&style=flat" alt="kyawswarhtet" /> </p>
 
-- 🔭 I’m currently working on Modern Future IT.,Ltd as Senior Backend Developer (Node.js)
- 
+- 🔭 I’m currently working on FINCLUTECH LTD-FZCO (Dubai) as Senior Frontend Developer.
+  
+- 🔭 Former Senior Backend Developer (Node.js) at Modern Future IT.,Ltd.
+  
 - 🔭 Former Senior Full Stack Developer at ITVisionHub.pte.,Ltd
 
 - 💬 Ask me about **Javascript, MERN Stack**
