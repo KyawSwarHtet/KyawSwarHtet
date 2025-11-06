@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawswarhtet&label=Profile%20views&color=0e75b6&style=flat" alt="kyawswarhtet" /> </p>
 
-- 🔭 I’m currently working on FINCLUTECH LTD-FZCO (Dubai) as Senior Frontend Developer.
+- 🔭 I’m currently working on FINCLUTECH LTD-FZCO (Dubai) as Software Developer.
   
 - 🔭 Former Senior Backend Developer (Node.js) at Modern Future IT.,Ltd.
   
@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 🌱 I’m currently working with **Node.js, Express.js, Typescript, React.js, Redux, Next.js, Vue.js, Mongodb, PostgreSQL and MySql**
+- 🌱 I’m currently working with **Node.js, Express.js, Typescript, Laravel, React.js, Redux, Next.js, Vue.js, Mongodb, PostgreSQL and MySql**
 
 - 📫 How to reach me **kyawswarhtet1119@gmail.com**
 
