@@ -103,7 +103,7 @@ SSR • SSG
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://www.linkedin.com/in/mr-kyaw-swar-htet-975b73221/">
+  <a href="https://www.linkedin.com/in/kyaw-swar-htet-975b73221/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:kyawswarhtet1119@gmail.com">
