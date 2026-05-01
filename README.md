@@ -1,57 +1,115 @@
-![MasterHead](https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif)
-<h1 align="center">Hi 👋, I'm KyawSwarHtet</h1>
-<h3 align="center">A Fullstack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
+<!-- ======================= HEADER ======================= -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawswarhtet&label=Profile%20views&color=0e75b6&style=flat" alt="kyawswarhtet" /> </p>
-
-- 🔭 I’m currently working on FINCLUTECH LTD-FZCO (Dubai) as Software Developer.
-  
-- 🔭 Former Senior Backend Developer (Node.js) at Modern Future IT.,Ltd.
-  
-- 🔭 Former Senior Full Stack Developer at ITVisionHub.pte.,Ltd
-
-- 💬 Ask me about **Javascript, MERN Stack**
-
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 🌱 I’m currently working with **Node.js, Express.js, Typescript, Laravel, React.js, Redux, Next.js, Vue.js, Mongodb, PostgreSQL and MySql**
-
-- 📫 How to reach me **kyawswarhtet1119@gmail.com**
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" /></a>
-  <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" /></a>
-  <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" /></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" /></a>
-  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" /></a>
-  <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" /></a>
-  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" /></a>
-  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" /></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" /></a>
-  <a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" /></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>
-  <a href="https://kotlinlang.org"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" /></a>
-  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" /></a>
-  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" /></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" /></a>
-  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" /></a>
-  <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" /></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" /></a>
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" /></a>
-  <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="40" /></a>
-  <a href="https://sass-lang.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" /></a>
+<p align="center">
+  <img src="https://www.digitaladlectio.com/wp-content/uploads/2020/04/New-PNC-Animated-Banners.gif" />
 </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Mr.Kyaw Swar Htet"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Mr.Kyaw Swar Htet" /></a></p><br><br>
+<h1 align="center">Hi 👋, I'm Kyaw Swar Htet</h1>
 
+<h3 align="center">
+Senior Full Stack Engineer | Scalable Systems | Fintech • E-commerce • Microservices
+</h3>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyawswarhtet&" alt="kyawswarhtet" /></p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=kyawswarhtet">
+    <img src="https://komarev.com/ghpvc/?username=kyawswarhtet&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
+---
 
+## 👨‍💻 About Me
+
+I’m a **Senior Full Stack Engineer with 7+ years of experience** building scalable and secure web platforms across fintech, e-commerce, and enterprise systems.
+
+I focus on:
+- Designing **scalable architectures**
+- Building **high-performance APIs & microservices**
+- Writing **clean, maintainable production code**
+- Delivering **secure and reliable systems**
+
+---
+
+## 🚀 Experience Highlights
+
+- 💼 Software Engineer at **FINCLUTECH LTD-FZCO (Dubai)**
+- 🏗 Former **Senior Backend Engineer (Node.js)** at Modern Future IT
+- 🔧 Former **Senior Full Stack Engineer** at ITVisionHub
+
+---
+
+## 🧠 Tech Stack
+
+### 🎨 Frontend
+React.js • Next.js • Vue.js  
+JavaScript (ES6+) • TypeScript  
+Redux • Context API • RBAC  
+
+### ⚙️ Backend
+Node.js • Express.js • Laravel  
+REST APIs • GraphQL  
+Socket.io • WebSocket  
+
+### 🗄 Data & Messaging
+PostgreSQL • MySQL • MongoDB  
+Redis • RabbitMQ • Kafka  
+
+### 🏗 Architecture & Patterns
+Microservices Architecture  
+Event-Driven Systems  
+CQRS • Idempotency Handling  
+API Design • Authentication (JWT, OAuth)  
+
+### ☁️ Cloud & DevOps
+AWS • DigitalOcean  
+Docker • CI/CD  
+Git • Bitbucket  
+Jira • Agile/Scrum  
+SSR • SSG  
+
+---
+
+## ⚡ Core Technologies
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30"/>
+</p>
+
+---
+
+## 📌 What I Focus On
+
+- Clean Architecture & System Design  
+- Performance Optimization  
+- Secure Application Development  
+- Scalable Microservices  
+- Event-Driven Systems  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyawswarhtet" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/mr-kyaw-swar-htet-975b73221/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:kyawswarhtet1119@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://stackoverflow.com/users/19852779/kyaw-swar-htet">
+    <img src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow" />
+  </a>
+</p>
